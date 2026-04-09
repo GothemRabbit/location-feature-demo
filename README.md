@@ -1,6 +1,7 @@
 # Location Feature Demo
 
 This repository showcases my individual implementation of a map-based Location feature.
+https://github.com/GothemRabbit/team40-location-ui/blob/main/README(LOCATION).md
 
 ## What I implemented
 - Google Maps API based location UI
